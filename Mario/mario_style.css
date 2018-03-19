@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+.title {
+	background-color: red;
+	color: #F0FFFF;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 100px;
+	font-size: 50px;
+	font-weight: normal;
+	font-family: Arial;
+}
+.image {
+	max-width: 460px;
+	margin-right: 30px;
+}
+.description {
+	max-width: 705px;
+	color: #7C8B88;
+	margin-right: 100px;
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 400px;
+	margin-top: 200px;
+}
+.page {
+    display: flex;
+}
